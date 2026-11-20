@@ -8,8 +8,6 @@ Built by - Swasthika battacharya
 - **Mentor:** Dr. R. Kiran Kumar
 
 
----......
-
 ## 🌟 Key Features
 
 1. **Dual-Mode Instant Search:**
