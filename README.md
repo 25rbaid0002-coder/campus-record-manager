@@ -6,11 +6,7 @@ A lightweight, high-performance web application engineered for instant student d
 Built for the **School of Engineering & Technology (SOET)**.
 Built by - Swasthika battacharya 
 - **Mentor:** Dr. R. Kiran Kumar
-- **Team Members:**
-  - Swasthika (25RBAID0002)
-  - Saritha (25RBAID0001)
-  - Abdul Rahman (25RBAID0017)
-  - K. Srujana (25RBAIM0065)
+
 
 ---......
 
